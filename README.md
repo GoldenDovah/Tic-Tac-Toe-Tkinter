@@ -27,7 +27,11 @@ To play over LAN, make sure both computers are connected to the same internet co
 v1.1
 
 Changed source code to implement OOP
+
 removed buttons flashing when clicking on them
+
 added play over LAN
+
 player with first turn is now chosen randomly at the beginning
+
 first turn keeps alternating from player to player/bot
