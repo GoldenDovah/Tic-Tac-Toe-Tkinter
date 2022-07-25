@@ -23,7 +23,9 @@ To play over LAN, make sure both computers are connected to the same internet co
 ![Screenshot 2022-07-25 142206](https://user-images.githubusercontent.com/19519174/180787481-0a79c5c9-c3e0-418b-97f7-94fb996e7702.png)
 
 **CHANGELOG**
+
 v1.1
+
 Changed source code to implement OOP
 removed buttons flashing when clicking on them
 added play over LAN
